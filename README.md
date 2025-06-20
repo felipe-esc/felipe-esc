@@ -84,6 +84,8 @@ Here you may find🔎:
  - 🏄‍♂️ surf
  - 🥋 brazilian jiu-jitsu
  - 🎮 gaming
+ - 📚 books
+ - 🔖 animes and manga
    
 ## 📫 How to reach me:
 <div>
