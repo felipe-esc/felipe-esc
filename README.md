@@ -5,9 +5,14 @@ Welcome to my profile!
 <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJpZjRxejFqNzY5ZzBmb2h6YzN0bngzYzJtemo4OWwzenZweXp0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2DtfA7nYrbNnIabEyK/giphy.gif width=1000 alt="Under construction gif">
 
 ## 👦🏽 About me 
-Hi! I'm Felipe and I'm a CS 💻 major from São Paulo(Brazil 🇧🇷), I'm a developer🖱️ an this is my personal GitHub. Nice to meet you ;)
+Hi, again👋! I'm Felipe and I'm a CS 💻 major from São Paulo(Brazil 🇧🇷), I work as a developer🖱️ and this is my personal GitHub. Nice to meet you ;)
 
-Currently working at: Open to work 😄
+Here you may find🔎: 
+- some of my college projects and homeworks✏️
+- personal projects📔
+- job selection process demo projects💼
+
+👷🏼 I'm currently working at: Open to work 😄
 
 <!--
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN0YWpuaTB6bmUyMTI4dWcxazNjeTc4Z3NjcGZpYzRwMmt5cDQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jIMfsR1wRSeO9W/giphy.gif" />
