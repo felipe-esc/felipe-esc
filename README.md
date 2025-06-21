@@ -5,9 +5,9 @@ Welcome to my profile!
 <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJpZjRxejFqNzY5ZzBmb2h6YzN0bngzYzJtemo4OWwzenZweXp0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2DtfA7nYrbNnIabEyK/giphy.gif width=1000 alt="Under construction gif">
 
 ## 👦🏽 About me 
-Hi, again👋! I'm Felipe and I'm a CS major 💻 from São Paulo(Brazil 🇧🇷), I work as a developer🖱️ and this is my personal GitHub. Nice to meet you ;)
+Hi! I'm Felipe and I'm a CS💻 major🎓 from São Paulo🏙️(Brazil 🇧🇷), I am a developer🖱️ and this is my personal GitHub. Welcome!😁
 
-Here you may find🔎: 
+🧐Here you may find🔎: 
 - some of my college projects and homeworks✏️
 - personal projects📔
 - job selection process demo projects💼
@@ -80,6 +80,7 @@ Here you may find🔎:
 ##  🔭 I’m currently working on...
 - No current personal projects 😶‍🌫️
 - Not currently contributing to any project 😢
+- Studying software architecture 📐
 
 ## 🌱 I’m currently learning...
 <div>
@@ -106,12 +107,12 @@ Here you may find🔎:
  - 🎸 music (especially Rock, Samba and Forró), I play drums, bass guitar and guitar, and I dance Forró
  - 😺 cats
  - 👨‍🍳 cooking
- - 🛹 skate
- - 🏄‍♂️ surf
+ - 🛹 skateboarding
+ - 🏄‍♂️ surfing
  - 🥋 brazilian jiu-jitsu
  - 🎮 gaming
  - 📚 books
- - 🔖 animes and manga
+ - 🔖 animes and mangas
    
 ## 📫 How to reach me (Social):
 <div>
