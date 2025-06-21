@@ -128,6 +128,7 @@ Hi! I'm Felipe😁 (he/him), I'm a CS major💻🎓 from São Paulo🏙️(Brazi
        <a href="https://bsky.app/profile/felipe-esc.bsky.social" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-BlueSky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank"></a>
        <a href="https://discordapp.com/users/689503953343348873" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
        <a href="https://steamcommunity.com/id/felipe_esc/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+       <a href="https://stackoverflow.com/users/7222870/felipe-esc%c3%b3rcio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
 </div>
 
 🌎 You can dm me✉️ in Portuguese 🇧🇷, English 🇬🇧, Spanish 🇪🇸, German 🇩🇪 and French 🇫🇷 :)
