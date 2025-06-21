@@ -8,7 +8,7 @@ Welcome to my profile!
 <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJpZjRxejFqNzY5ZzBmb2h6YzN0bngzYzJtemo4OWwzenZweXp0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2DtfA7nYrbNnIabEyK/giphy.gif width=1000 alt="Under construction gif">
 
 ## 👦🏽 About 
-Hi! I'm Felipe😁 (he/him), I'm a CS major💻🎓 from São Paulo🏙️(Brazil 🇧🇷) and I am a developer🖱️
+Hi! I'm Felipe😁 (he/him), I'm a CS major💻(at [Universidade Estadual de Campinas - UNICAMP](https://unicamp.br/)🎓) from São Paulo🏙️(Brazil 🇧🇷) and I am a developer🖱️in a love/hate relationship with coding ❤️
 
 🧐Here you may find🔎: 
 - some of my college projects and homeworks✏️
