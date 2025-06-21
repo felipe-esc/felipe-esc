@@ -1,4 +1,6 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=felipe-esc.felipe-esc&color=00cf00)
+![last manually updated :20.Jun.2025](https://img.shields.io/badge/last_manually_updated-20.Jun.2025-informational)
+
 ## Hello, github! 👋
 Welcome to my profile!
 
@@ -125,5 +127,3 @@ Hi! I'm Felipe and I'm a CS💻 major🎓 from São Paulo🏙️(Brazil 🇧🇷
 </div>
 
 🌎 You can dm me✉️ in Portuguese 🇧🇷, English 🇬🇧, Spanish 🇪🇸, German 🇩🇪 and French 🇫🇷 :)
-
-Last updated on: 20/06/2025
