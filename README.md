@@ -76,7 +76,9 @@ Hi! I'm Felipe😁 (he/him), I'm a CS major💻🎓 from São Paulo🏙️(Brazi
               <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="60" height="60" alt="LaTeX logo"/>
               <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="html5 logo"/>
               <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="css3 logo"/>
-              <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="60" height="60" alt="Adobe Illustrator logo"/>  
+              <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="60" height="60" alt="Adobe Illustrator logo"/> 
+              <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60" alt="NPM logo"/>
+              <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="60" height="60" alt="Ubuntu logo"/>
        </div>     
 </details>
 
