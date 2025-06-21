@@ -78,7 +78,7 @@ Hi! I'm Felipe and I'm a CS💻 major🎓 from São Paulo🏙️(Brazil 🇧🇷
 </details>
 
 ##  🔭 I’m currently working on...
-- No current personal projects 😶‍🌫️
+- No current personal projects(code) 😶‍🌫️
 - Not currently contributing to any project 😢
 - Studying software architecture 📐
 
