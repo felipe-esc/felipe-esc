@@ -108,7 +108,7 @@ Hi! I'm Felipe😁 (he/him), I'm a CS major💻🎓 from São Paulo🏙️(Brazi
        
 ## 🤓 Passions and Hobbies
  - 🎸 music (really love music, especially Rock, Samba and Forró), I play drums, bass guitar and guitar, and I dance Forró
- - 😺 cats
+ - 😺 cats (I have 3 at the time)
  - 👨‍🍳 cooking
  - 🛹 skateboarding
  - 🏄‍♂️ surfing
@@ -116,6 +116,7 @@ Hi! I'm Felipe😁 (he/him), I'm a CS major💻🎓 from São Paulo🏙️(Brazi
  - 🎮 gaming
  - 📚 books
  - 🔖 animes and mangas
+ - 🍫 chocolate, ☕coffee, 🍺beer and 🍷wine
    
 ## 📫 How to reach me (Social):
 <div>
