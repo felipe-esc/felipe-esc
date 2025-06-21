@@ -1,4 +1,5 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=felipe-esc.felipe-esc&color=00cf00)
+![version :v1](https://img.shields.io/badge/version-v1-informational)
 ![last manually updated :20.Jun.2025](https://img.shields.io/badge/last_manually_updated-20.Jun.2025-informational)
 
 ## Hello, github! 👋
@@ -7,7 +8,7 @@ Welcome to my profile!
 <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJpZjRxejFqNzY5ZzBmb2h6YzN0bngzYzJtemo4OWwzenZweXp0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2DtfA7nYrbNnIabEyK/giphy.gif width=1000 alt="Under construction gif">
 
 ## 👦🏽 About me 
-Hi! I'm Felipe and I'm a CS💻 major🎓 from São Paulo🏙️(Brazil 🇧🇷), I am a developer🖱️ and this is my personal GitHub. Welcome!😁
+Hi! I'm Felipe and I'm a CS💻 major🎓 from São Paulo🏙️(Brazil 🇧🇷), I am a developer🖱️ and this is my personal GitHub😁
 
 🧐Here you may find🔎: 
 - some of my college projects and homeworks✏️
@@ -106,7 +107,7 @@ Hi! I'm Felipe and I'm a CS💻 major🎓 from São Paulo🏙️(Brazil 🇧🇷
 
        
 ## 🤓 Passions and Hobbies
- - 🎸 music (especially Rock, Samba and Forró), I play drums, bass guitar and guitar, and I dance Forró
+ - 🎸 music (really love music, especially Rock, Samba and Forró), I play drums, bass guitar and guitar, and I dance Forró
  - 😺 cats
  - 👨‍🍳 cooking
  - 🛹 skateboarding
@@ -127,3 +128,14 @@ Hi! I'm Felipe and I'm a CS💻 major🎓 from São Paulo🏙️(Brazil 🇧🇷
 </div>
 
 🌎 You can dm me✉️ in Portuguese 🇧🇷, English 🇬🇧, Spanish 🇪🇸, German 🇩🇪 and French 🇫🇷 :)
+
+<!-- 
+todo: 
+- padronizar os logos (baixar, editar e upar os svgs) para melhorar estética
+- trocar gif por um customizado
+
+ideias:
+- adicionar link para website(?)
+- sessão de stats
+- talvez adicionar current playing
+-->
