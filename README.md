@@ -77,8 +77,6 @@ Here you may find🔎:
        </div>     
 </details>
 
-
-
 ##  🔭 I’m currently working on...
 - No current personal projects 😶‍🌫️
 - Not currently contributing to any project 😢
@@ -88,8 +86,21 @@ Here you may find🔎:
        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="Amazon Web Services logo"/>
        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="60" height="60" alt="Jenkins logo"/>
        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="60" height="60" alt="SonarQube logo"/>
-       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"  width="60" height="60" alt="Google Cloud Platform logo"/>
+       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="60" height="60" alt="Google Cloud Platform logo"/>
 </div>
+
+<details>
+       <summary>In an unkown future (want to learn someday)</summary>   
+       <div>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60" height="60" alt="Go logo"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-plain-wordmark.svg" width="60" height="60" alt="Elixir logo"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="60" height="60" alt="Lua logo"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="60" height="60" alt="Android logo"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="60" height="60" alt="Godot logo"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg" width="60" height="60" alt="Swift logo"/>
+       </div> 
+</details>
+
        
 ## 🤓 Passions and Hobbies
  - 🎸 music (especially Rock, Samba and Forró), I play drums, bass guitar and guitar, and I dance Forró
