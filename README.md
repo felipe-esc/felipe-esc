@@ -1,6 +1,6 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=felipe-esc.felipe-esc&color=00cf00)
 ![version :v1](https://img.shields.io/badge/version-v1-informational)
-![last manually updated :20.Jun.2025](https://img.shields.io/badge/last_manually_updated-20.Jun.2025-informational)
+![last manually updated :03.Jul.2025](https://img.shields.io/badge/last_manually_updated-03.Jul.2025-informational)
 
 ## Hello, github! 👋
 Welcome to my profile!
@@ -87,7 +87,7 @@ Hi! I'm Felipe😁 (he/him), I'm a CS major💻(at [Universidade Estadual de Cam
 - Not currently contributing to any project 😢
 - Studying software architecture 📐
 
-## 🌱 I’m currently learning...
+## 🌱 I’m currently learning/studying...
 <div>
        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="Amazon Web Services logo"/>
        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="60" height="60" alt="Jenkins logo"/>
@@ -110,7 +110,7 @@ Hi! I'm Felipe😁 (he/him), I'm a CS major💻(at [Universidade Estadual de Cam
        
 ## 🤓 Passions and Hobbies
  - 🎸 music (really love music, especially Rock, Samba and Forró), I play drums, bass guitar and guitar, and I dance Forró
- - 😺 cats (I have 3 at the time)
+ - 😺 cats (I have 3 at my home)
  - 👨‍🍳 cooking
  - 🛹 skateboarding
  - 🏄‍♂️ surfing
