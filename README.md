@@ -1,6 +1,6 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=felipe-esc.felipe-esc&color=00cf00)
 ![version :v1](https://img.shields.io/badge/version-v1-informational)
-![last manually updated :03.Jul.2025](https://img.shields.io/badge/last_manually_updated-03.Jul.2025-informational)
+![last manually updated :23.Jul.2025](https://img.shields.io/badge/last_manually_updated-23.Jul.2025-informational)
 
 ## Hello, github! 👋
 Welcome to my profile!
@@ -83,8 +83,8 @@ Hi! I'm Felipe😁 (he/him), I'm a CS major💻(at [Universidade Estadual de Cam
 </details>
 
 ##  🔭 I’m currently working on...
-- No current personal code projects 😶‍🌫️
-- Not currently contributing to any project 😢
+- No current personal code projects going on 😶‍🌫️
+- Unfortunately, I'm not currently contributing to any other open project 😢
 - Studying software architecture 📐
 
 ## 🌱 I’m currently learning/studying...
@@ -110,7 +110,7 @@ Hi! I'm Felipe😁 (he/him), I'm a CS major💻(at [Universidade Estadual de Cam
        
 ## 🤓 Passions and Hobbies
  - 🎸 music (really love music, especially Rock, Samba and Forró), I play drums, bass guitar and guitar, and I dance Forró
- - 😺 cats (I have 3 at my home)
+ - 😺 cats (and I have 3)
  - 👨‍🍳 cooking
  - 🛹 skateboarding
  - 🏄‍♂️ surfing
@@ -129,6 +129,7 @@ Hi! I'm Felipe😁 (he/him), I'm a CS major💻(at [Universidade Estadual de Cam
        <a href="https://discordapp.com/users/689503953343348873" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
        <a href="https://steamcommunity.com/id/felipe_esc/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
        <a href="https://stackoverflow.com/users/7222870/felipe-esc%c3%b3rcio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+       <a href="https://leetcode.com/u/user9584hH" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LeetCode-#FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
 </div>
 
 🌎 You can dm me✉️ in Portuguese 🇧🇷, English 🇬🇧, Spanish 🇪🇸, German 🇩🇪 and French 🇫🇷 :)
